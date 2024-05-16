@@ -1,10 +1,10 @@
 {
   "name": "taskat",
   "version": "1.0.0",
-  "description": "",
+  "description": "Taskat is a task management system built with Node.js using Express for the backend and Next.js for the frontend.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./server.js"
   },
   "keywords": [],
   "author": "",
